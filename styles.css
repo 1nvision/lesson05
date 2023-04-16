@@ -14,11 +14,11 @@ body {
 	line-height: 1.25;
 	font-family: Verdana, Geneva, sans-serif;
 	background: url(../images/mts1.png) center bottom repeat-x;
-	background: url(images/cloudMain.png) center top no-repeat,
-				url(images/cloudScatter.png) 25% 75px repeat-x,
-				url(images/hills.png) center bottom repeat-x,	
-				url(images/mts2.png) right bottom repeat-x,
-				url(images/mts1.png) right bottom repeat-x;
+	background: url(/images/cloudMain.png) center top no-repeat,
+				url(/images/cloudScatter.png) 25% 75px repeat-x,
+				url(/images/hills.png) center bottom repeat-x,	
+				url(/images/mts2.png) right bottom repeat-x,
+				url(/images/mts1.png) right bottom repeat-x;
 }
 h1 {
 	padding-bottom: .5em;
@@ -31,7 +31,7 @@ p {
 	width: 900px;
 	margin: 0 auto;
 	padding: 150px 0 0 0;
-	background: url(images/birds.png) center 85px no-repeat;
+	background: url(/images/birds.png) center 85px no-repeat;
 }
 #container div {
 	width: 200px;
