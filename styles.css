@@ -10,16 +10,16 @@ html {
 	background-color: #bbe0f1;
 }
 body {
-	word-spacing: .16em;
-	line-height: 1.25;
-	font-family: Verdana, Geneva, sans-serif;
-	background: url(./images/mts1.png) center bottom repeat-x;
+word-spacing: .16em;
+line-height: 1.25;
+font-family: Verdana, Geneva, sans-serif;
+background: url(./images/mts1.png) center bottom repeat-x;
 	background: url(./images/cloudMain.png) center top no-repeat,
-				url(/images/cloudScatter.png) 25% 75px repeat-x,
-				url(/images/hills.png) center bottom repeat-x,	
-				url(/images/mts2.png) right bottom repeat-x,
-				url(/images/mts1.png) right bottom repeat-x;
-}
+	url(./images/cloudScatter.png) 25% 75px repeat-x,
+	url(./images/hills.png) center bottom repeat-x,
+	url(./images/mts2.png) right bottom repeat-x,
+	url(./images/mts1.png) right bottom repeat-x;
+	}
 h1 {
 	padding-bottom: .5em;
 	color: #069;
